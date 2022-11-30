@@ -7,6 +7,11 @@ I am currently pursuing my Btech degree in computer science with specialisation 
 <img src="https://img.shields.io/badge/Github-%23121011?style=plastic&logo=github&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=black" height=20>
+<img src="https://img.shields.io/badge/CSS3-3776AB?style=plastic&logo=css3&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/Tableau-white?style=plastic&logo=Tableau&logoColor=blue" height=20>
+<img src="https://img.shields.io/badge/Anaconda-green?style=plastic&logo=Anaconda&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/Jupyter-white?style=plastic&logo=Jupyter&logoColor=orange" height=20>
 
 # 📈 GitHub Stats:
 ![Himani's Stats](https://github-readme-stats.vercel.app/api?username=HimaniKalra&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
