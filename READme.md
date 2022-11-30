@@ -13,6 +13,12 @@ I am currently pursuing my Btech degree in computer science with specialisation 
 <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/Jupyter-white?style=plastic&logo=Jupyter&logoColor=orange" height=20>
 
+<h2 align="center">Certifications Completed From </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=plastic&logo=Coursera&logoColor=white" height=30>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" height=30>
+</p>
+
 # 📈 GitHub Stats:
 ![Himani's Stats](https://github-readme-stats.vercel.app/api?username=HimaniKalra&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HimaniKalra&theme=highcontrast&hide_border=true)<br/>
