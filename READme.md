@@ -19,7 +19,7 @@ I am currently pursuing my Btech degree in computer science with specialisation 
 [![Himani's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=HimaniKalra&theme=xcode)](https://github.com/HimaniKalra)
 
 # 👀Views
-![](https://komarev.com/ghpvc/?username=saiksha8502&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=HimaniKalra&label=PROFILE+VIEWS)
 
 <h1 align="center"> Find me on :-</h1>
 <p align="center">
